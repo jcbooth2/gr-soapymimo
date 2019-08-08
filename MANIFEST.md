@@ -1,11 +1,11 @@
 title: The SOAPYMIMO OOT Module
-brief: Short description of gr-soapymimo
+brief: Using the SoapySDR client API to implement multi-input multi-output (MIMO) antenna
 tags: # Tags are arbitrary, but look at CGRAN what other authors are using
   - sdr
 author:
-  - Author Name <authors@email.address>
+  - Jayden Booth
 copyright_owner:
-  - Copyright Owner 1
+  - Jayden Booth
 license:
 #repo: # Put the URL of the repository here, or leave blank for default
 #website: <module_website> # If you have a separate project website, put it here
