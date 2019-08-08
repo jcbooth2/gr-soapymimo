@@ -22,5 +22,5 @@
 ########################################################################
 install(FILES
     api.h
-    DESTINATION include/soapymimo
+    basicsource.h DESTINATION include/soapymimo
 )
