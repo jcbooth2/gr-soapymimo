@@ -1,6 +1,6 @@
 dev1<?xml version="1.0"?>
 <block>
-  <name>basicsource</name>
+  <name>Soapy MIMO Basic Source</name>
   <key>soapymimo_basicsource</key>
   <category>[soapymimo]</category>
   <import>import soapymimo</import>
