@@ -25,7 +25,7 @@ include(GrPlatform) #define LIB_SUFFIX
 include_directories(${Boost_INCLUDE_DIR})
 link_directories(${Boost_LIBRARY_DIRS})
 list(APPEND soapymimo_sources
-    basicsource_impl.cc )
+    )
 
 set(soapymimo_sources "${soapymimo_sources}" PARENT_SCOPE)
 if(NOT soapymimo_sources)
