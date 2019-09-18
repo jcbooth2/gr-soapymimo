@@ -1,2 +1,2 @@
 # gr-soapymimo
-This is an application of using the SoapySDR client API to implement multi-input multi-output (MIMO) antenna communication systems in GNU Radio. This repository is currently under development and not ready for general use. I plan on implementing both a general MIMO source and sink as well as a phased array MIMO source and sink.
+This is an application of using the SoapySDR client API to implement multi-input multi-output (MIMO) antenna communication systems in GNU Radio. I plan on making both a source and sink that can utilize multiple types of commercially avaliable SDR boards as a phased array. This repository is currently under development and not ready for general use. If you have any suggestions or comments please contact me.
